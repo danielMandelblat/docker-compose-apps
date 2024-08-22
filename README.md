@@ -1,4 +1,4 @@
-# Change certifications
+## Change certifications
 
 Go into `certs` folders and replace the dummy `private.key` key and `public.crt` files with your key and certificate.
 
